@@ -1,0 +1,1 @@
+This folder is designed to showcase the user interface (UI) of our website, providing a visual representation of its layout and features
